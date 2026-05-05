@@ -4,5 +4,5 @@ This is an emulator for decoding LPC data for the TMS5XXX family. Supported chip
 ## How do I use it?
 Usage it pretty straightforward. click the upload button and browse for the file you want to play. If using a ROM, just type in the start address.
 
-**This is distributed as an HTML web page and a standalone C program.
-code was written with Claude, and is based on <https://github.com/ke4ahr/PyTI_LPC_CMD>**
+**This is distributed as an HTML web page and a standalone C program.  
+This code was written with Claude, and is based on <https://github.com/ke4ahr/PyTI_LPC_CMD>**
